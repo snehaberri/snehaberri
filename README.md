@@ -10,6 +10,7 @@ Final-year BSc CS (Hons) & Mathematics student. I build at the intersection of M
 
 **Backend & Systems** — FastAPI · PostgreSQL · SQLAlchemy · TCP sockets · RBAC · Cognex/Keyence vision systems
 
-**ML / Data** — Pandas · NumPy · Scikit-learn · Feature engineering · Logistic Regression · Pytorch
+**ML & Research** — PyTorch, PyTorch Lightning, INRs/SIRENs, Weight-Space Analysis, Permutation Alignment, Meta-Learning
+(Reptile), Time-Series Forecasting
 
 **Tools** — Git · Docker · Linux · Postman · Android Studio
